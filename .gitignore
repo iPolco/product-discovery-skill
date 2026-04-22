@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude runtime
+/home/claude/.pd_env
+.pd_env
+outputs/
+*.tmp
+
+# LibreOffice lock files
+.~lock.*#
+
+# Logs
+*.log
