@@ -1,5 +1,10 @@
 # Product Discovery Skill
 
+[![Version](https://img.shields.io/badge/version-3.8-blue.svg)](CHANGELOG.md)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Made for Claude](https://img.shields.io/badge/made%20for-Claude%20Skills-D97706.svg)](https://docs.claude.com/en/docs/agents-and-tools/agent-skills)
+[![Methodology](https://img.shields.io/badge/methodology-JTBD%20%7C%20OST%20%7C%20Lean-purple.svg)](#методологическая-база)
+
 Claude Skill для проведения структурного Product Discovery по методологии из **18 задач в 6 блоках**. Объединяет Jobs-to-be-Done (Ulwick/Christensen), Opportunity Solution Tree (Teresa Torres), Customer Development (Steve Blank), The Mom Test (Rob Fitzpatrick), Lean Canvas (Ash Maurya), PESTEL, SWOT и Business Model Canvas.
 
 Версия: **3.8** · см. [CHANGELOG.md](CHANGELOG.md)
